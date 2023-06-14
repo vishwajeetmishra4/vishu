@@ -1,4 +1,3 @@
-# vishu
 <h1 align="center">Hi 👋, I'm Vishwajeet Mishra</h1>
 <h3 align="center">A Passionate Web Developer Student from India.</h3>
 
